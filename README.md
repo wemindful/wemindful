@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Hello, I am Blank.
 - 🌱 I’m currently learning CV, DL, and Agricultural information technology.
-- 😄: ![Visitor Count](https://profile-counter.glitch.me/PuristWu/count.svg)
+- 😄: ![Visitor Count](https://profile-counter.glitch.me/wemindful/count.svg)
 - 😄: ![PuristWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wemindful&show_icons=true&theme=tokyonight)
